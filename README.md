@@ -107,7 +107,7 @@ adv_loss, adv_accuracy = model.evaluate(adv_images, y_test[:len(adv_images)], ve
 print(f'Accuracy on adversarial images: {adv_accuracy * 100:.2f}%')
 ```
 
-![image](https://github.com/Archangel15520/azsii2/blob/main/screenshot/1.JPG)
+![image](https://github.com/Archangel15520/azsii3/blob/main/screenshot/1.JPG)
 
 # Вывод:
 
